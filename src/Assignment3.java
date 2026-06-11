@@ -6,6 +6,6 @@ public class Assignment3 {
         System.out.println("     TTTTTTT     ");
         System.out.println("    TTTTTTTTT    ");
         System.out.println("  TTTTTTTTTTTTT  ");
-        System.out.println(" TTTTTTTTTTTTTTT ")
+        System.out.println(" TTTTTTTTTTTTTTT ");
     }
 }
